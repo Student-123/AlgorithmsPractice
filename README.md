@@ -1,0 +1,2 @@
+# AlgorithmsPractice
+For practising algorithms
