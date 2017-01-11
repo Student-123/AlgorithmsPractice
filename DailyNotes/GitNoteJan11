@@ -1,0 +1,9 @@
+Git tagging
+---------------
+Tagging vs Branching
+	We can think of tagging as baselines. It will point to specific commit.
+	We can create tags in two ways. It is better to create annotated tags.
+	Tags can be created in such a way that, they can point to earlier commits.
+
+	Branching is for linear development. It will be a seperate line for development.
+	Later we can merge if we need.
